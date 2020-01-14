@@ -1,9 +1,10 @@
 import React from 'react';
+import Formation from './Components/Formation/Formation';
 
 function App() {
   return (
     <div>
-      <h1>Removed initial files</h1>
+      <Formation />
     </div>
   );
 }
